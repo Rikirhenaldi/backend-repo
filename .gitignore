@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled files
+dist/
+out/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
